@@ -1,1 +1,6 @@
-
+created a git repository
+added files to main branches and commited
+created another branch with name master and commited files to it
+performed rebase command
+performed merge command to merge both branches
+performed pull and push commands to commit, remove files from main branch
